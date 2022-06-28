@@ -338,7 +338,7 @@ class _HomeScreenState extends State<HomeScreen> {
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
         Image.asset(
-          'assets/images/logo.png',
+          'assets/images/logo_transparent.png',
           width: 200,
         ),
         const Icon(
